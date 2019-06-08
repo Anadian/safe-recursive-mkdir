@@ -1,0 +1,32 @@
+{
+  "name": "safe-recursive-mkdir",
+  "version": "0.0.1",
+  "description": "Safely use mkdirSync in recursive mode with less code.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anadian/safe-recursive-mkdir.git"
+  },
+  "keywords": [
+    "mkdir",
+    "directory",
+    "create",
+    "sync",
+    "recursive",
+    "libre",
+    "open",
+    "free",
+    "mit"
+  ],
+  "author": "Anadian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anadian/safe-recursive-mkdir/issues"
+  },
+  "homepage": "https://github.com/Anadian/safe-recursive-mkdir#readme"
+}
