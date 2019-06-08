@@ -162,6 +162,6 @@ if(require.main === module){
 	}
 	Logger.log({process: PROCESS_NAME, module: MODULE_NAME, file: FILENAME, function: FUNCTION_NAME, level: 'debug', message: 'End of execution block.'});
 } else{
-	exports.SetLogger = Set_Logger;
+	exports.SetLogger = Logger_Set;
 	exports.mkdirSyncRecursiveSafe = SafeRecursiveMKDIR;
 }
