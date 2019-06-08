@@ -1,9 +1,12 @@
 {
   "name": "safe-recursive-mkdir",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Safely use mkdirSync in recursive mode with less code.",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "application-log-winston-interface": ">=1.0.2",
+    "env-paths": "*"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "./index.js"
