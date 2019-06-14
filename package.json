@@ -1,7 +1,7 @@
 {
   "name": "safe-recursive-mkdir",
-  "version": "0.1.3",
-  "description": "Safely use mkdirSync in recursive mode with less code.",
+  "version": "0.1.4",
+  "description": "Safely use mkdirSync in recursive mode with less code. [Discontinued: use 'make-dir' instead: it has more features and a nicer API.]",
   "main": "source/safe-recursive-mkdir.js",
   "dependencies": {
     "application-log-winston-interface": ">=1.0.2",
